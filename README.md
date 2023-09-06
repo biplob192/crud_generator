@@ -1,0 +1,3 @@
+# This is a simple CRUD generator package
+
+## Details comming soon ...
